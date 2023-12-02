@@ -1,3 +1,4 @@
+
 var radius = 340; // how big of the radius 
 var autoRotate = true; // auto rotate or not
 var rotateSpeed = -60; // unit: seconds/360 degrees
