@@ -24,4 +24,10 @@ I'm currently working as an Automation Engineer Intern
 ---
 [![](https://visitcount.itsvg.in/api?id=soubhagya2001&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/soubhagya2001/soubhagya2001/output/snake.svg" alt="Snake animation" />
+
+###
