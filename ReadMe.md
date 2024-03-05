@@ -12,6 +12,8 @@ I'm currently working as an Automation Engineer Intern
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soubhagya2001&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soubhagya2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=soubhagya2001&icon=5&color=3)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soubhagya2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -21,13 +23,3 @@ I'm currently working as an Automation Engineer Intern
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=soubhagya2001&icon=5&color=3)](https://visitcount.itsvg.in)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/soubhagya2001/soubhagya2001/output/snake.svg" alt="Snake animation" />
-
-###
